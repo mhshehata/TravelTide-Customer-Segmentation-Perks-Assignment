@@ -35,3 +35,15 @@ The data used in this project was obtained from the TravelTide database. As per 
 ## Feature Engineering
 
 <img src = "https://github.com/mhshehata/TravelTide-Customer-Segmentation-Perks-Assignment/blob/main/feature%20engineering.png">
+
+## Segments Charachteristics
+
+**Frequent Flyers**: These customers have a high frequency of flights and significant spending on air travel.
+
+**Family/Group Travelers**: This segment is characterized by longer trips, multiple nights booked, and a higher number of seats, suggesting they often travel with family or in groups.
+
+**Long-Hotel-Stay Travelers**: Customers in this group tend to book longer hotel stays, often requiring multiple rooms and incurring higher hotel expenses.
+
+**Couple Travelers**: This segment typically consists of couples taking trips of moderate length. They often book two seats, check two bags, and stay in a single hotel room.
+
+**Solo/Business Travelers**: These customers usually travel alone or on business trips. They have a single bag, require only one room and seat, and their trips are of medium duration.
