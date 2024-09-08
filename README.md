@@ -72,15 +72,12 @@ The data used in this project was obtained from the TravelTide database. As per 
 ## Recommendations
 
 **A/B Testing: Comparing the Impact of Targeted Perks vs. Random Perks**
-
 Compare the effectiveness of perks specifically tailored to customer segments (targeted perks) against a control group receiving randomly selected perks.
 
 **Customer Feedback**
-
 Collect customer feedback after a beta implementation of the loyalty program and do further analysis considering the retrieved data.
 
 **Female-Centric Appeal**
-
 Analyze the factors contributing to the predominance of female users in our dataset.
 
 **Tailoring Marketing Campaigns for U.S. Users**
