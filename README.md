@@ -31,3 +31,6 @@ The data used in this project was obtained from the TravelTide database. As per 
 - To prepare the dataset for K-Means Clustering, Python is utilized for data visualization, manipulation, and Principal Component
 - Analysis (PCA). Silhouette analysis is adopted to determine the optimal number of clusters.
 - Based on the K-Means Clustering results, customers are grouped into segments with similar characteristics. Each segment is then assigned a specific perk.
+
+## Feature Engineering
+
