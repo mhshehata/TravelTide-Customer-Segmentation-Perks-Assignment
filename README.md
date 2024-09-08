@@ -7,9 +7,13 @@ The goal of this project is to segment customers in the TravelTide database into
 ### The five perks are as follows:
 
 10% Flight Discount
+
 10% Hotel Discount
+
 One Night Free Hotel
+
 Free Airport Transportation
+
 Free Cancelation or Free Checked-Bag
 
 ## Data and Methodology
