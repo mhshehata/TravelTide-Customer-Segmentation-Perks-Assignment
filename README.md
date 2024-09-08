@@ -1,5 +1,5 @@
 # TravelTide Customer Segmentation Perks Assignment
-
+<img src="/images/hydrogen.jpg">
 
 ## Project Description
 The goal of this project is to segment customers in the TravelTide database into five different segments based on their spending patterns, booking habits, and travel preferences. Based on these segments, we will assign customers to one of five relevant perks. These perks are intended to foster customer loyalty, increase engagement, and improve overall satisfaction.
