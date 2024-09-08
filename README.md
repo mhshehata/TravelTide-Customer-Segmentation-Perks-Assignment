@@ -16,6 +16,9 @@ Free Airport Transportation
 
 Free Cancelation or Free Checked-Bag
 
+### Business Objective
+Create a compelling rewards program that encourages customer loyalty and repeat business on the TravelTide platform.
+
 ## Data and Methodology
 
 ### Data
