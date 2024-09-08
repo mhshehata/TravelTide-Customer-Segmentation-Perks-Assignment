@@ -47,3 +47,24 @@ The data used in this project was obtained from the TravelTide database. As per 
 **Couple Travelers**: This segment typically consists of couples taking trips of moderate length. They often book two seats, check two bags, and stay in a single hotel room.
 
 **Solo/Business Travelers**: These customers usually travel alone or on business trips. They have a single bag, require only one room and seat, and their trips are of medium duration.
+
+
+## Segmentation Criteria
+
+**Frequent Flyers**: Customers are considered frequent flyers if they have 6 or more flights.
+
+**Family/Group Travelers**: Customers are classified as "family or group" travelers if they have an average of more than 2 seats per trip or an average of at least 2 rooms per trip.
+
+**Long-Hotel-Stay Travelers**: are defined as customers who have an average of at least 5 nights per trip and minimum of 3 hotel trips.
+
+**Couple Travelers**: Couples are defined as customers who have an average of at least 3 nights per trip, 
+2 seats per trip, and no more than 1 room per trip.
+
+**Solo/Business Travelers**: Customers are considered solo or business travelers if they have an average of 
+1 seat and 1 bag per trip.
+
+
+## Results
+### Perks Distribution
+
+< img src= "https://github.com/mhshehata/TravelTide-Customer-Segmentation-Perks Assignment/edit/main/README.md#:~:text=logo.png-,perk_distribution,-.png">
