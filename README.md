@@ -34,3 +34,4 @@ The data used in this project was obtained from the TravelTide database. As per 
 
 ## Feature Engineering
 
+<img src = "https://github.com/mhshehata/TravelTide-Customer-Segmentation-Perks-Assignment/blob/main/feature%20engineering.png">
