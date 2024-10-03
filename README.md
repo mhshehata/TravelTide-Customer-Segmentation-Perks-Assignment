@@ -1,4 +1,4 @@
-# TravelTide Customer Segmentation Perks Assignment
+# TravelTide Customer Segmentation & Perks Assignment
 <img src="https://github.com/mhshehata/TravelTide-Customer-Segmentation-Perks-Assignment/blob/main/logo.png">
 
 ## Project Description
